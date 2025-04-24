@@ -24,7 +24,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Saifshaikh0786/HealthMate-ai-medical-diagnosis-chatbot.git
+   git clone https://github.com/vamshikrishna72/AI-Symptom-Checker.git
    ```
 
 2. **Navigate to the Project Directory:**
